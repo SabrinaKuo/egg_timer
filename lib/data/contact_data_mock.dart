@@ -1,0 +1,1 @@
+class MockContactRepository implements ContactRepository
